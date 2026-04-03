@@ -87,7 +87,7 @@ project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/jdevaiya/project.git
+git clone https://github.com/jdevaiya/Student_Exam_Performance_Indicator.git
 cd project
 ```
 
